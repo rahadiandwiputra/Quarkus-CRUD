@@ -1,0 +1,15 @@
+org\acme\commandmode\HelloCommando$Application.class
+org\acme\commandmode\utils\ResponseEnum.class
+org\acme\commandmode\utils\ResponseUtils.class
+org\acme\commandmode\controller\nilaiController.class
+org\acme\commandmode\model\matkulModel.class
+org\acme\commandmode\repository\nilaiRepository.class
+org\acme\commandmode\Service\prodiService.class
+org\acme\commandmode\model\nilaiModel.class
+org\acme\commandmode\controller\mahasiswaController.class
+org\acme\commandmode\DTO\ResponseDTO.class
+org\acme\commandmode\Service\matkulService.class
+org\acme\commandmode\Service\nilaiService.class
+org\acme\commandmode\controller\matkulController.class
+org\acme\commandmode\repository\matkulRepository.class
+org\acme\commandmode\controller\prodiController.class

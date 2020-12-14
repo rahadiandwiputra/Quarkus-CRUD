@@ -1,0 +1,7 @@
+org\acme\commandmode\HelloCommando.class
+org\acme\commandmode\repository\mahasiswaRepository.class
+org\acme\commandmode\model\mahasiswaModel.class
+org\acme\commandmode\repository\prodiRepository.class
+META-INF\panache-archive.marker
+org\acme\commandmode\Service\mahasiswaService.class
+org\acme\commandmode\model\prodiModel.class
